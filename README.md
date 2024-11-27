@@ -1,1 +1,2 @@
-# drug_data_analysis
+# Drug Seizures Data Analysis
+## This is part of an assignment I was given from my university.
