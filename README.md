@@ -7,7 +7,7 @@ Analyzing drug usage data to uncover trends, patterns, and insights that can ass
 
 ## Table of Contents 📂
 
-1. [Introduction](https://github.com/devarshh/drug_data_analysis?tab=readme-ov-file#introduction-)
+1. [Introduction](#introduction)
 2. [Objective](#objective)
 3. [Features](#features)
 4. [Project Structure](#project-structure)
