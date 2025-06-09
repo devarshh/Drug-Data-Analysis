@@ -2,8 +2,8 @@ import streamlit as st
 
 st.markdown("# Exploratory Data Analysis (EDA) of National Drug Seizures FY 21-24")
 
-st.markdown("## Devarsh Vanditkumar Joshi")
-st.markdown("### B.Sc. Hons. Computer Science Co-op student @ Ontario Tech University")
+st.markdown("### By - Devarsh Vanditkumar Joshi")
+st.markdown("#### B.Sc. Hons. Computer Science Co-op student @ Ontario Tech University")
 st.markdown("Drug trafficking poses a grave threat to public safety and national security. Analyzing drug seizure data provides an opportunity to identify geographical patterns, understand trafficking methods, and evaluate the effectiveness of law enforcement. This project delves into the Nationwide Drug Seizures dataset to extract actionable insights and inform strategies for combating this menace.")
 
 st.markdown("---")
